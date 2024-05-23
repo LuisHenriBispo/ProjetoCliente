@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\repositorio\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\repositorio\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\views\\cliente\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\views\\cliente\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|c:\\users\\2mod\\desktop\\pojetonovolraleatorio\\pojetonovolraleatorio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F721E394-7CF5-4297-885F-DFC5781931B7}|PojetoNovoLRAleatorio\\ProjetoNovoLRAleatorio.csproj|solutionrelative:pojetonovolraleatorio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,6 +67,162 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Program.cs",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Program.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Program.cs",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:28:18.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\appsettings.json",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\appsettings.json",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\appsettings.json",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T18:24:23.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:25:33.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\appsettings.Development.json",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T18:25:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Models\\Cliente.cs",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:29:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Views\\Cliente\\Cliente.cshtml",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Views\\Cliente\\Cliente.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Views\\Cliente\\Cliente.cshtml",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Views\\Cliente\\Cliente.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T17:21:05.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Repositorio\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Repositorio\\IClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Repositorio\\IClienteRepositorio.cs",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Repositorio\\IClienteRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:10:08.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Repositorio\\ClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Repositorio\\ClienteRepositorio.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:09:05.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:53:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:51:10.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-23T16:37:22.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PojetoNovoLRAleatorio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:37:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\PojetoNovoLRAleatorio\\PojetoNovoLRAleatorio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PojetoNovoLRAleatorio\\Views\\Home\\Index.cshtml",
