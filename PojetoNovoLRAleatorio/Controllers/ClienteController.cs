@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProjetoNovoLRAleatorio.Models;
 using ProjetoNovoLRAleatorio.Repositorio;
 
 namespace ProjetoNovoLRAleatorio.Controllers
@@ -23,5 +24,21 @@ namespace ProjetoNovoLRAleatorio.Controllers
               
             return View(_clienteRepositorio.TodosClientes());
         }
+
+        public IActionResult CadCliente()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CadCliente(Cliente cliente)
+        {
+            //metodo cadastra 
+           _clienteRepositorio.Cadastrar(cliente);
+
+            //redireciona para index
+            return RedirectToAction(nameof(Cliente));
+        }
+
     }
 }

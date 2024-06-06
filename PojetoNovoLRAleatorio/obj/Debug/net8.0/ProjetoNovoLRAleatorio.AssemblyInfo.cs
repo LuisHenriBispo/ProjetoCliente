@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoNovoLRAleatorio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+155112daa2265646a75cf48332c63cc1c4b234a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2108afd588dd45c1254ee651e119501e00048cee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoNovoLRAleatorio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoNovoLRAleatorio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

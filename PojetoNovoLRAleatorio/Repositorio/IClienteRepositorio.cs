@@ -6,5 +6,9 @@ namespace ProjetoNovoLRAleatorio.Repositorio
     {
         //crud
         IEnumerable<Cliente> TodosClientes();
+
+        void Cadastrar(Cliente cliente);
     }
+
+    
 }

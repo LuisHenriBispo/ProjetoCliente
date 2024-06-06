@@ -11,3 +11,4 @@ email varchar(50)
 );
 
 select * from tbCliente;
+
